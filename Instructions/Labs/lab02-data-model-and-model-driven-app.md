@@ -473,7 +473,7 @@ In this exercise, you will create model-driven application.
 
 ![Sitemap subarea - screenshot](02/media/image67.png)
 
-11. Go to the **Properties** pane, select **Table** for **Type**, and select **Problem Report** for **Table**.
+11. Go to the **Properties** pane, select **Entity** for **Type**, and select **Problem Report** for **Entity**.
 
 ![Sitemap subarea properties - screenshot](02/media/image68.png)
 
