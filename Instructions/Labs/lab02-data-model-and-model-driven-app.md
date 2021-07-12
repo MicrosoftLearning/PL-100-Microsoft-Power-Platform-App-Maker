@@ -473,7 +473,7 @@ In this exercise, you will create model-driven application.
 
 ![Sitemap subarea - screenshot](02/media/image67.png)
 
-11. Go to the **Properties** pane, select **Table** for **Type**, and select **Problem Report** for **Table**.
+11. Go to the **Properties** pane, select **Entity** for **Type**, and select **Problem Report** for **Entity**.
 
 ![Sitemap subarea properties - screenshot](02/media/image68.png)
 
@@ -511,7 +511,7 @@ In this exercise, you will create model-driven application.
 
 22. Select the **New Subarea**.
 
-23. Go to the **Properties** pane, select **Entity** for **Type**, and select **Building** for **Table**.
+23. Go to the **Properties** pane, select **Entity** for **Type**, and select **Building** for **Entity**.
 
 ![Sitemap subarea properties - screenshot](02/media/image75.png)
 
@@ -519,7 +519,7 @@ In this exercise, you will create model-driven application.
 
 25. Select the **New Subarea**.
 
-26. Go to the **Properties** pane, select **Table** for **Type**, and select **Department** for **Table**.
+26. Go to the **Properties** pane, select **Entity** for **Type**, and select **Department** for **Entity**.
 
 27. The sitemap should now look like the image below. Click **Save** to save the sitemap.
 
