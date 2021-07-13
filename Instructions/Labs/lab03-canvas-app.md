@@ -303,7 +303,7 @@ In this exercise, you will add a form to submit new problem reports.
 
 3.  Select **New Report Form**, go to the **Properties** pane, and select **Problem Report** for **Data source**.
 
-4.  Click **Edit Columns**.
+4.  Click **Edit fields**.
 
 ![Edit form Columns - screenshot](03/media/image28.png)
 
