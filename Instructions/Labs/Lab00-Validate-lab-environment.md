@@ -4,16 +4,6 @@ lab:
     module: 'Module 01: Course introduction'
 ---
 
-
-> **Note:** Effective November 2020:
->
-> - Common Data Service has been renamed to Microsoft Dataverse. [Learn more](https://aka.ms/PAuAppBlog)
-> - Some terminology in Microsoft Dataverse has been updated. For example, *entity* is now *table* and *field* is now *column*. [Learn more](https://go.microsoft.com/fwlink/?linkid=2147247)
-
-
-Module 0: Course introduction
-=============================
-
 ## Practice Lab – Validate lab environment
 
 Scenario
@@ -24,19 +14,19 @@ In this lab, you will acquire a Power Platform trial tenant and access the Power
 Exercise 1 – Acquire a Power Platform trial tenant 
 --------------------------------------------------
 
-1.  Navigate to [Power Apps](https://powerapps.microsoft.com/) and select **Start free**. 
+1.  Navigate to [Power Apps](https://powerapps.microsoft.com/) and select **Start building apps**. 
 
-2.  Enter the email address from the provided Microsoft 365 credentials. Agree to the terms & conditions then select **Start your free trial**. 
+2.  Enter the email address from the provided Microsoft 365 credentials (Administrative Username). Select **Next**. 
 
-3.  You will see a prompt that you have an existing account with Microsoft. Select **Sign in**. 
+3.  You will see a prompt that you have an existing account with Microsoft. Select **Sign In**. 
 
-4.  Enter the password provided by the Authorized Lab Hoster. 
+4.  Enter the password provided (Administrative Password) and select **Sign in**. 
 
-5.  Select **Yes** to stay signed in. 
+5.  Select **Yes** to stay signed in.
 
-6.  If applicable, read through the prompts by selecting **Next**, then select **Let's Go**.
+7.  If applicable, read through the prompts and populate any phone number, then select **Get Started**.
 
-    > **Note:** If you encounter an error: "Sorry, there's been a disconnect", you can follow the steps below. If not, you can continue to **Exercise 2**.
+    > **Note:** If you encounter an error: "Sorry, there's been a disconnect", you can follow the steps below. If not, you can continue to the next exercise.
     >
     > 1. Navigate to [Power Apps Maker Portal](https://make.powerapps.com).
     > 2. Select the **Gear Icon** (Settings) from top-right corner on the header of the page.
@@ -53,7 +43,7 @@ In this exercise, you will create a **Practice** environment that you will use t
 
 1.  Open a new browser tab and navigate to the Power Platform admin center `https://aka.ms/ppac` 
     
-2.  Log in with your Microsoft 365 credentials, if prompted again. 
+2.  Log in with your Microsoft 365 credentials if prompted again. 
 
 3.  Skip the welcome tour by closing the prompt, or select **Get Started** to begin the tour and select **Next** through each prompt. At the end, select **Done** to finish the tour. 
 
