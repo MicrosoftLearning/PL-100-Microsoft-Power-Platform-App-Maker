@@ -59,9 +59,9 @@ In this exercise, you create a flow that will notify the creator of a problem wh
 
 In this task, you will create a flow that send notification when the status of problem report row changes.
 
-1.  Navigate to the [Power Apps maker portal](https://make.powerapps.com/) and make sure you are in the correct environment.
+1.  Navigate to the [Power Apps maker portal](https://make.powerapps.com/) and make sure you are in the correct environment (MOD Administrator's Environment).
 
-2.  Select **Solutions** and open the **Company 311** solution.
+2.  Select **Solutions** and open the **?????** //Is this right?? Or should they create another solution? 
 
 3.  Select **+ New** > **Automation** > **Cloud Flow** > **Automated**.
 
@@ -73,7 +73,7 @@ In this task, you will create a flow that send notification when the status of p
 
     ![Trigger selection screen with Microsoft Dataverse trigger selected and a cursor over Create button](04/media/image1-1.png)
 
-6.  Select **Modified** for **Change type**, select **Problem Reports** for **Table name**, **Organization** for **Scope** and expand **Show advanced options**.
+6.  Select **Modified** for **Change type**, select **Problem Reports** for **Table name**, **Organizations** for **Scope** and expand **Show advanced options**.
 
 7.  Enter `statuscode` for **Select columns** then select **… Menu** button of the trigger step.
 
