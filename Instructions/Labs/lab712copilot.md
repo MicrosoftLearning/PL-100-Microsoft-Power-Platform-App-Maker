@@ -168,6 +168,8 @@ Follow these steps to create a flow by using Copilot.
 1. Save the flow by selecting the **Save** button in the upper-right corner of the screen.
 
 1. Test the flow by selecting the **Test** button in the upper-right corner of the screen. Select **Manually** and then select **Test**.
+   > [!NOTE]
+   > If you receive an error message, you may close this out. The flow should still run.
 
 1. To submit an expense report, go to the Expense Tracker app in https://make.preview.powerapps.com.
 
