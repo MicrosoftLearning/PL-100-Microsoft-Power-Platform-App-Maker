@@ -6,7 +6,7 @@ In this lab, you'll create a simple flow that uses AI Builder actions to analyze
 
 Follow these steps to add AI Builder actions in a flow.
 
-1. Sign in to [Power Automate](https://make.powerautomate.com).
+1. Sign in to Power Automate at `https://make.powerautomate.com`.
 
 1. Select **Create** on the left navigation.
 
