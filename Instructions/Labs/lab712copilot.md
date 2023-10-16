@@ -137,11 +137,11 @@ Follow these steps to create a flow by using Copilot.
 
 1. Enter the following content after the **Body** text:
 
-   **Report Name:**
+   `Report Name: 
 
-   **Approval Date:**
+   Approval Date: `
 
-   Add the **Report Name** and **Completion Date** fields from the **Dynamic content** pane to the appropriate lines in the **Body** text.
+1. Add the **Report Name** and **Completion Date** fields from the **Dynamic content** pane to the appropriate lines in the **Body** text.
 
 1. Add the **Response summary** field from the **Dynamic content** pane to the end of the **Body** text.
 
@@ -151,21 +151,23 @@ Follow these steps to create a flow by using Copilot.
 
 1. Select the **To** field and remove any text in the field before entering the email address that you're using for this lab.
 
-1. For the **Subject** field, enter the following content into the Copilot chat window and then press the **Enter** key on your keyboard:
+1. In the **To** field, select "Use "(email address)" as a custom value".
+
+1. Enter the following content into the Copilot chat window and then press the **Enter** key on your keyboard:
 
    `Add "The expense report has been denied" as the Subject parameter for the Send an email 2 action`
 
-1. For the **Body** field, enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
+1. Enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
 
    `Add "For your records, the following expense report has been denied:" as the Body parameter for the Send an email 2 action`
 
 1. Enter the following content after the **Body** text:
 
-   **Report Name:**
+   `Report Name:
 
-   **Denial Date:**
+   Denial Date:`
 
-   Add the **Report Name** and **Completion Date** fields from the **Dynamic content** pane to the appropriate lines in the **Body** text.
+1. Add the **Report Name** and **Completion Date** fields from the **Dynamic content** pane to the appropriate lines in the **Body** text.
 
 1. Add the **Response summary** field from the **Dynamic content** pane to the end of the **Body** text.
 
@@ -177,7 +179,7 @@ Follow these steps to create a flow by using Copilot.
 
 1. Test the flow by selecting the **Test** button in the upper-right corner of the screen. Select **Manually** and then select **Test**. (If you receive an error message, you may close this out. The flow should still run.)
 
-1. To submit an expense report, go to the Expense Tracker app in https://make.preview.powerapps.com.
+1. To submit an expense report, go to the Expense Tracker app in https://make.powerapps.com.
 
 1. Run the app and then select **+New** to create an expense report.
 
@@ -185,7 +187,7 @@ Follow these steps to create a flow by using Copilot.
 
 1. Select **Save**.
 
-1. Select the **X** in the upper-right corner to close out of the app.
+1. Close out of the app by closing the tab.
 
    The flow runs and sends an approval email to the email address that you provided in the flow that you built.
 
