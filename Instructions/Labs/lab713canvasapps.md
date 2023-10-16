@@ -36,63 +36,53 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
    - Owner
    - Owner Email
 
+1. Select **Create**.
+
 ### Create a canvas app for managing real estate showings
 
-
-
-
-
-1. On the Home page in Power Apps, in the center text field, enter the following prompt to search for an AI-generated table:
+1. On the Home page in Power Apps, in the center text field, enter the following prompt to create an AI-generated table and canvas app:
 
     `build an app to manage real estate showings`
 
-    Select the **Send** button.
+1. Select the **Send** button.
 
 1. After Copilot AI generates a table based on your prompt, look through the table to view the columns that are created for the start of your table.
 
     Your next steps are to modify and add to the already generated table.
 
-1. In the text box, in the lower part of the **Copilot** pane to the right of the screen, enter the following text:
+1. Respond in the Copilot chat:
+
+   `Change the Address column to a lookup to the Real Estate Property table`
+
+1. Notice the change to the column. Respond in the Copilot chat:
+
+   `???`
+
+1. Respond in the Copilot chat:
 
     `add a column to track client full name`
 
-    Select the **Send** button.
-
-    Copilot notifies you that the table is updated, and the new column should show as being added to the table.
-
-1. Enter the following text into the chat:
+1. Respond in the Copilot chat:
 
     `add a column to track client email`
 
-    Select the **Send** button.
+1. Locate and select the **Status** column, then select **View column**. Notice there are three choices: Pending, Confirmed, and Cancelled.
 
-    A new column is added to the table and displays the client’s email.
+1. Select **Cancel** to close the Status column properties.
 
-    > [!NOTE]
-    >
-    > The data that's generated in your table might vary from the data that's shown in the table in the screenshots for this lab.
-
-    > [!NOTE]
-    >
-    > The **Suggestions** section in the lower-left corner of the screen provides you with different suggestions on how you can add to and modify your table.
-
-    On the right of the screen, it appears as if you're having a conversation with a Copilot AI bot while adding to and modifying your table. This area is where you can scroll through and view the changes or additions that you've made to your table.
-
-1. Edit the **Status** column within the table. In the text box within the **Copilot** pane, enter the following text and then send it:
+1. Respond in the Copilot chat:
 
     `add an option for “Completed” to the Status column`
 
-    The system might take a minute to load. When it does, the **Status** column shows as updated and includes the option for **Completed**.
-
-1. Select the **Status** column name dropdown menu and then select **View column** where you can view the columns’ properties and the current status details and data.
+1. Select the **Status** column name dropdown menu and then select **View column** where you can view the columns’ properties and the current status details and data. You should see the following choices: Pending, Confirmed, Cancelled, and Completed.
 
     > [!NOTE]
     >
-    > If your column choices aren't the same as the ones that are shown in the screenshot, enter the following command into the **Copilot** pane text box and then send it:
+    > If your column choices aren't the same as the ones described, enter the following command into the **Copilot** chat and then send it:
     >
-    > `the status choices should be Pending, Confirmed, Cancelled, and Completed`
+    > `the Status choices should be Pending, Confirmed, Cancelled, and Completed`
 
-    Select the **X** in the upper-right corner of the pane to close it.
+1. Select the **X** in the upper-right corner of the column properties pane to close it.
 
     Next, you'll add more data to your table and the existing columns. 
 
@@ -108,15 +98,19 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     - ID
 
-    - Address
+    - Name
+
+    - Real Estate Property
 
     - Date
 
     - Time
 
+    - Agent
+
     - Status
 
-    - Agent Name
+    - Notes
 
     - Client Full Name
 
