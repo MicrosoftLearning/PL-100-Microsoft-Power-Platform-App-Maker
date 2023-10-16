@@ -7,7 +7,7 @@ Then, the reviewer can approve or reject the expense report from within the emai
 
 Follow these steps to create a flow by using Copilot.
 
-1. Sign in to [Power Automate](https://make.powerautomate.com).
+1. Sign in to Power Automate at `https://make.powerautomate.com`.
 
 1. In the center of the **Home** page within Power Automate, in the text field on **Start building your flow with Copilot**, enter the following prompt:
 
@@ -27,6 +27,8 @@ Follow these steps to create a flow by using Copilot.
 
 1. From the **Table Name** dropdown menu, search for and select **Expense Reports**.
 
+1. Collapse the **When a row is added, modified or deleted** pane with the double arrows. 
+
 1. Select the **Start and wait for an approval** action.
 
    Notice that the **Approval Type** parameter is missing.
@@ -35,9 +37,9 @@ Follow these steps to create a flow by using Copilot.
 
    After you select the **Approval Type**, more parameters are now available.
 
-1. In the Copilot chat window, enter the following prompt:
+1. In the Copilot chat window, enter the following prompt and submit:
 
-    **Add "New expense report received" as the Title parameter for the Start and wait for an approval action**
+    `Add "New expense report received" as the Title parameter for the Start and wait for an approval action`
 
    It takes a few seconds for Copilot to process the prompt. 
 
@@ -47,11 +49,11 @@ Follow these steps to create a flow by using Copilot.
 
 1. For the **Details** parameter, enter the following text:
 
-   **A new expense report has been received. Please review the details to approve or reject the report:**
+   `A new expense report has been received. Please review the details to approve or reject the report:
 
-   **Report Name:**
+   Report Name:`
 
-1. Place your curser next to **Property:** in the **Details** parameter and then select the lightning icon to open the **Dynamic content** pane.
+1. Place your cursor next to **Report Name** in the **Details** parameter and then select the lightning icon to open the **Dynamic content** pane.
 
 1. In the **Dynamic content** pane, find the **Report Name** field and then select it.
 
