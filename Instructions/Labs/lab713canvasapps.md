@@ -1,3 +1,13 @@
+## Lab 1: Use Copilot to create a canvas app
+
+In this exercise, you’ll create a mobile application by using Copilot in Power Apps. Field agents will use this app to browse real estate inventory and manage appointments for showings, and the data will be stored in Dataverse.
+
+> [!NOTE]
+>
+> In this lab, your results for data might vary. The reason is because Power Apps uses OpenAI to generate data for the lab and the data changes daily.
+
+### Create a Real Estate Property table using Copilot 
+
 1. Sign in to Power Apps at `https://make.powerapps.com`.
 
 1. Select **Tables**.
@@ -18,19 +28,19 @@
 
    `The property prices should be between $100,000 and $1,000,000.`
 
+1. Review the suggested Real Estate Property table. Compare your columns to the following and make any adjustments needed for them to align:
+   - ID
+   - Address
+   - Price
+   - Size
+   - Owner
+   - Owner Email
+
+### Create a canvas app for managing real estate showings
 
 
 
 
-In this exercise, you’ll create a mobile application by using Copilot in Power Apps. Field agents will use this app to browse real estate inventory and manage appointments for showings, and the data will be stored in Dataverse.
-
-> [!NOTE]
->
-> Power Apps requires a Microsoft 365 license or a free trial. Learn more about your licensing options. [Microsoft products include Power Apps and Power Automate](/power-platform/admin/pricing-billing-skus/?azure-portal=true).
-
-> [!NOTE]
->
-> In this lab, your results for data might vary from those shown in the screenshots and images. The reason is because Power Apps uses OpenAI to generate data for the lab and the data changes daily.
 
 1. On the Home page in Power Apps, in the center text field, enter the following prompt to search for an AI-generated table:
 
