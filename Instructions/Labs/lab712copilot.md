@@ -3,7 +3,7 @@
 
 In this exercise, you'll create an automation by using Copilot in Power Automate to automate the approval process for expense reports. 
 You'll use Copilot to create a flow that sends an email to the reviewer when a new expense report is created. 
-Then, the reviewer can approve or reject the showing request from within the email.
+Then, the reviewer can approve or reject the expense report from within the email.
 
 Follow these steps to create a flow by using Copilot.
 
