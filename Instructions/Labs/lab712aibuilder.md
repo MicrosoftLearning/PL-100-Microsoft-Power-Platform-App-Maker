@@ -93,5 +93,3 @@ Let's test your flow by analyzing text in the Excel file.
 1. Navigate to your Excel file and check that the line of feedback and sentiment was added.
 
 Congratulations, you've successfully created your first AI Builder flow.
-
-For more information, see [Use AI Builder in Power Automate](/ai-builder/use-in-flow-overview/?azure-portal=true).
