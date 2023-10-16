@@ -1,5 +1,5 @@
 
-# Lab 3: Create an approval flow with Copilot in Power Automate
+# Lab 1: Create an approval flow with Copilot in Power Automate
 
 In this exercise, you'll create an automation by using Copilot in Power Automate to automate the approval process for a real estate showing. 
 You'll use Copilot to create a flow that sends an email to the real estate agent when a new showing is requested. 
