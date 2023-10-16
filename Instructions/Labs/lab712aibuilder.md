@@ -1,4 +1,4 @@
-# Lab 3: Use AI Builder actions in Power Automate
+# Lab 2: Use AI Builder actions in Power Automate
 
 In this lab, you'll create a simple flow that uses AI Builder actions to analyze the sentiment of feedback text submitted in a Microsoft Excel spreadsheet.
 
