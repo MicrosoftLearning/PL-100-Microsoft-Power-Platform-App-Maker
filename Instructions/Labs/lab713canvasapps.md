@@ -74,7 +74,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     `add an option for “Completed” to the Status column`
 
-1. Select the **Status** column name dropdown menu and then select **View column** where you can view the columns’ properties and the current status details and data. You should see the following choices: Pending, Confirmed, Cancelled, and Completed.
+1. Again, locate and select the **Status** column, then select **View column**. Notice there are now four choices: Pending, Confirmed, Cancelled, and Completed.
 
     > [!NOTE]
     >
@@ -126,10 +126,6 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Select the **Data** icon from the left navigation bar. Copilot has created a **Dataverse** table that's now displaying in the **Environments** section.
 
-    > [!NOTE]
-    >
-    > Currently, Copilot is only supported for Dataverse. You can't use any other data access point at this time.
-
     Next, you'll edit the table now that the app has been created.
 
 1. Within the **Data** pane, hover your mouse cursor over the table. To the right of the table, select the ellipsis (**...**).
@@ -142,14 +138,14 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. From the dropdown menu, select the **Edit column** option.
 
-1. In this example, you don't want the **Data type** to be a **Single line of text**. To change that value, go to the **Edit column** pane, and then from the **Date type** dropdown menu, select **# Autonumber**.
+1. In this example, you don't want the **Data type** to be a **Single line of text**. To change that value, go to the **Edit column** pane, and then from the **Date type** dropdown menu, select **Autonumber**.
 
 1. Select **Save**.
 
-1. Select the **Close** button in the lower-right corner of the **Edit table** dialog.
+1. Select **Close** in the lower-right corner of the **Edit table** dialog.
 
    The table should now show as **Refreshed** in the **Data** pane.
-
+------------------------------------
 1. Modify the gallery in the application so that it displays the relevant data. Select the **Tree view** icon to return to the Tree view.
 
 1. On the app's main screen, select **RecordsGallery1** to display **Real Estate Showings** and then select the edit button to put the gallery in edit mode.
