@@ -79,7 +79,9 @@ Follow these steps to create a flow by using Copilot.
 
 1. From the **Table Name** dropdown menu, search for and select **Expense Reports**.
 
-1. Select the **Row ID** field and then select **See More** for **When a row is added, modified, or deleted**
+1. Select the **Row ID** field and then select the Lightning icon for Dynamic content.
+
+1. Select **See More** for **When a row is added, modified, or deleted**
 
 1. Locate and select the **Expense Report** unique identifier field from the **Dynamic content** pane.
 
@@ -87,7 +89,7 @@ Follow these steps to create a flow by using Copilot.
 
 1. Select **Approved** from the **Status Reason** dropdown menu.
 
-   When a report is approved, the **Status Reason** field in the **Expense Report** row is updated to **Approved**.
+   When a report is approved, the **Status Reason** field in the **Expense Report** row will be updated to **Approved**.
 
 1. Collapse the **Update a row** action and then select **+** under the **False** branch of the condition.
 
@@ -97,7 +99,9 @@ Follow these steps to create a flow by using Copilot.
 
 1. From the **Table Name** dropdown menu, search for and select **Expense Reports**.
 
-1. Select the **Row ID** field and then select **See More** for **When a row is added, modified, or deleted**
+1. Select the **Row ID** field and then select the Lightning icon for Dynamic content.
+
+1. Select **See More** for **When a row is added, modified, or deleted**
 
 1. Locate and select the **Expense Report** unique identifier field from the **Dynamic content** pane.
 
@@ -105,27 +109,29 @@ Follow these steps to create a flow by using Copilot.
 
 1. Select **Denied** from the **Status Reason** dropdown menu.
 
-   When a report is rejected, the **Status Reason** field in the **Expense Report** row is updated to **Denied**.
+   When a report is rejected, the **Status Reason** field in the **Expense Report** row will be updated to **Denied**.
 
 1. Collapse the **Update a row** action.
 
 1. In the Copilot chat window, enter the following prompt and then submit:
 
-   **Under the "Update a row" action for both branches in the condition, add a new "Send an email (V2)" action**
+   `Under the "Update a row" action for both branches in the condition, add a new "Send an email (V2)" action`
 
 1. Notice the response from Copilot and the changes made to the flow. Select the **Send an email** action for the **True** branch of the condition.
 
 1. Select the **To** field and remove any text in the field before entering the email address that you're using for this lab.
 
-1. For the **Subject** field, enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
+1. In the **To** field, select "Use "(email address)" as a custom value".
 
-   **Add "The expense report has been approved" as the Subject parameter for the Send an email action**
+1. Enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
+
+   `Add "The expense report has been approved" as the Subject parameter for the Send an email action`
 
    The **Subject** field should populate with the prompt text.
 
-1. For the **Body** field, enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
+1. Enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
 
-   **Add "For your records, the following expense report has been approved:" as the Body parameter for the Send an email action**
+   `Add "For your records, the following expense report has been approved:" as the Body parameter for the Send an email action`
 
    The **Body** field should populate with the prompt text.
 
@@ -147,11 +153,11 @@ Follow these steps to create a flow by using Copilot.
 
 1. For the **Subject** field, enter the following content into the Copilot chat window and then press the **Enter** key on your keyboard:
 
-   **Add "The expense report has been denied" as the Subject parameter for the Send an email 2 action**
+   `Add "The expense report has been denied" as the Subject parameter for the Send an email 2 action`
 
 1. For the **Body** field, enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
 
-   **Add "For your records, the following expense report has been denied:" as the Body parameter for the Send an email 2 action**
+   `Add "For your records, the following expense report has been denied:" as the Body parameter for the Send an email 2 action`
 
 1. Enter the following content after the **Body** text:
 
