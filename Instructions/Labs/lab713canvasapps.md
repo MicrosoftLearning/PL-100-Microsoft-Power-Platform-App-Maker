@@ -4,9 +4,20 @@
 
 1. Select **Describe the new table** to use Copilot to create a new table.
 
-1. In the Copilot chat, type and submit 
+1. Where the Copilot chat reads "What do you want to do with this table", enter the following prompt and submit:
 
-   `Store Real Estate Property information, including address, Price, Size, Owner, Owner Email, and an image.`
+   `Store Real Estate Property information, including address, Price, Size, Owner, and Owner Email.`
+
+1. Review the suggested Real Estate Property table. 
+
+1. Respond in the Copilot chat: 
+
+   `Rename the Name column "Address" and store the addresses in that column.`
+
+1. Respond in the Copilot chat:
+
+   `The property prices should be between $100,000 and $1,000,000.`
+
 
 
 
