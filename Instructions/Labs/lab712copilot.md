@@ -167,9 +167,7 @@ Follow these steps to create a flow by using Copilot.
 
 1. Save the flow by selecting the **Save** button in the upper-right corner of the screen.
 
-1. Test the flow by selecting the **Test** button in the upper-right corner of the screen. Select **Manually** and then select **Test**.
-   > [!NOTE]
-   > If you receive an error message, you may close this out. The flow should still run.
+1. Test the flow by selecting the **Test** button in the upper-right corner of the screen. Select **Manually** and then select **Test**. (If you receive an error message, you may close this out. The flow should still run.)
 
 1. To submit an expense report, go to the Expense Tracker app in https://make.preview.powerapps.com.
 
@@ -183,12 +181,7 @@ Follow these steps to create a flow by using Copilot.
 
    The flow runs and sends an approval email to the email address that you provided in the flow that you built.
 
-1. Sign in to the email account that you're using for this lab at https://outlook.com and then wait for the email to arrive.
-
-   > [!NOTE]
-   > If the flow doesn't run immediately, make sure that you wait for it. It might take up to 10 minutes for the flow to be triggered, especially on the first try.
-
-   The approval should resemble the following image.
+1. Sign in to the email account that you're using for this lab at https://outlook.com and then wait for the email to arrive. (If the flow doesn't run immediately, make sure that you wait for it. It might take up to 10 minutes for the flow to be triggered, especially on the first try.)
 
 1. Select **Approve**.
 
