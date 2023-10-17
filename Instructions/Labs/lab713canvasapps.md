@@ -50,7 +50,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Respond in the Copilot chat:
 
-   `Change the Address column to a lookup to the Real Estate Property table`
+   `Change the data type of the Address column to a lookup to the Real Estate Property table`
 
 1. Notice the change to the column. Respond in the Copilot chat:
 
@@ -68,21 +68,15 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     `Add a column for Status`
 
-1. Locate and select the **Status** column, then select **View column**. Notice there are three choices: Pending, Confirmed, and Cancelled.
+1. Locate and select the **Status** column, then select **View column**. Notice there are three choices for Status.
 
-1. Select **Cancel** to close the Status column properties.
+1. Select the **X** in the upper-right corner of the column properties pane to close it.
 
 1. Respond in the Copilot chat:
 
-    `add an option for “Completed” to the Status column`
+    `The Status choices should be Pending, Confirmed, Cancelled, and Completed`
 
 1. Again, locate and select the **Status** column, then select **View column**. Notice there are now four choices: Pending, Confirmed, Cancelled, and Completed.
-
-    > [!NOTE]
-    >
-    > If your column choices aren't the same as the ones described, enter the following command into the **Copilot** chat and then send it:
-    >
-    > `the Status choices should be Pending, Confirmed, Cancelled, and Completed`
 
 1. Select the **X** in the upper-right corner of the column properties pane to close it.
 
@@ -94,7 +88,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     Five more rows of data are added for each existing column in the table.
 
-    Your table should have several columns. However, to continue following the modules in this learning path, try to remove some columns that you won't use.
+    Your table should have several columns. Compare your columns to this list and remove any that you do not need.
 
     The list of columns that you need are:
 
