@@ -196,4 +196,50 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     If the system prompts you, save the app name as **Real Estate Showings**.
 
+## Add Real Estate Properties form to the app
+
+1. On the Tree view, select **New screen** > **Blank**.
+
+1. Select **With data** to start the screen with Dataverse data.
+
+1. Select the **Real Estate Properties** table.
+
+1. On the Tree view, select **MainScreen1**.
+
+1. In the Copilot chat, send the following prompt:
+
+   `Create a button on Form1`
+
+1. On the form, drag the button to below the Property field. 
+
+1. With the button selected, update the **Text** Property to:
+
+   `"View Property"`
+
+1. With the button selected, update the **OnSelect** Property to:
+
+   `Navigate(Screen1)` (need help with this formula to navigate to the selected Real Estate Property) 
+
+1. Select **Save**.
+
+1. Select **MainScreen1** and select **Play**. View a Real Estate Showing that has a Property populated. Select **View Property** on the form and notice that it navigates to the related Real Estate Property form. 
+
+1. Close out of the app preview. 
+
+1. Select **Screen1** from the Tree view.
+
+1. In the Copilot chat, type and send:
+
+   `Add an icon for Back navigation on the form`
+
+1. Look at the icon generated. In the Properties pane, change the Icon to a Back icon. Drag the button to below the Real Estate Properties title. 
+
+1. In the Copilot chat, type and send: 
+
+   `Change the backIcon to yellow`
+
+1. Select **MainScreen1** and select **Play**.
+
+1. View a Real Estate Showing that has a Property populated. Select **View Property** on the form and notice that it navigates to the related Real Estate Property form. Select the **Back** icon to navigate back to the Real Estate Showing. 
+
 Congratulations on creating your canvas app with Copilot! 
