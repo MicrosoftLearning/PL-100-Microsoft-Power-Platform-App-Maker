@@ -6,7 +6,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 >
 > In this lab, your results for data might vary. The reason is because Power Apps uses OpenAI to generate data for the lab and the data changes daily.
 
-### Create a Real Estate Property table using Copilot 
+### Create the Real Estate Property table using Copilot 
 
 1. Sign in to Power Apps at `https://make.powerapps.com`.
 
@@ -118,6 +118,8 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     The app that has been built for you should show in **Edit** mode.
 
+## Configure the Real Estate Showings table
+
 1. Select the **Data** icon from the left navigation bar. Notice that Copilot has created the **Real Estate Showings** Dataverse table.
 
     Next, you'll edit the table now that the app has been created.
@@ -151,6 +153,8 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
    The table should now show as **Refreshed** in the **Data** pane.
 
 1. Select the **Save** icon to save the app.
+
+## Configure your canvas app
 
 1. Modify the gallery in the application so that it displays the relevant data. Select the **Tree view** icon to return to the Tree view.
 
@@ -196,7 +200,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     If the system prompts you, save the app name as **Real Estate Showings**.
 
-## Add Real Estate Properties form to the app
+## Create a Real Estate Properties form and configure navigation
 
 1. On the Tree view, select **New screen** > **Blank**.
 
