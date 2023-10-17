@@ -33,6 +33,7 @@ Exercise 1 – Acquire a Power Platform trial tenant
     > 3. Select **Plan(s)** and verify if you have **Power Apps Per User Plan Trial**. 
     > 4. If you do not have the above license, repeat **Exercise 1**. Otherwise, proceed to **Exercise 2**.
 
+8. Select **Get started**.
 
 Exercise 2 - Create your environment 
 ------------------------------------
