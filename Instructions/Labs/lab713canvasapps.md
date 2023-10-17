@@ -54,7 +54,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Notice the change to the column. Respond in the Copilot chat:
 
-   `Rename the Address column to Real Estate Property`
+   `Remove the Address column`
 
 1. Notice the change to the column. Respond in the Copilot chat:
 
@@ -84,7 +84,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. In the **Copilot** pane text box, enter and send the following text:
 
-    `add 5 more rows of data`
+    `Add 5 more rows of data`
 
     Five more rows of data are added for each existing column in the table.
 
@@ -95,8 +95,6 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
     - ID
 
     - Name
-
-    - Real Estate Property
 
     - Date
 
@@ -120,11 +118,11 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     The app that has been built for you should show in **Edit** mode.
 
-1. Select the **Data** icon from the left navigation bar. Copilot has created a **Dataverse** table that's now displaying in the **Environments** section.
+1. Select the **Data** icon from the left navigation bar. Notice that Copilot has created the **Real Estate Showings** Dataverse table.
 
     Next, you'll edit the table now that the app has been created.
 
-1. Within the **Data** pane, hover your mouse cursor over the table. To the right of the table, select the ellipsis (**...**).
+1. Within the **Data** pane, hover your mouse cursor over the **Real Estate Showings** table. To the right of the table, select the ellipsis (**...**).
 
 1. From the menu, select **Edit data**.
 
@@ -138,31 +136,35 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Select **Save**.
 
+1. Select **New column**.
+
+1. Enter "Property" for the **Display Name**.
+
+1. For **Data type**, select **Lookup**.
+
+1. For **Related table**, search for and select **Real Estate Property**.
+
+1. Select **Save**.
+
 1. Select **Close** in the lower-right corner of the **Edit table** dialog.
 
    The table should now show as **Refreshed** in the **Data** pane.
-------------------------------------
+
+1. Select the **Save** icon to save the app.
+
 1. Modify the gallery in the application so that it displays the relevant data. Select the **Tree view** icon to return to the Tree view.
 
-1. On the app's main screen, select **RecordsGallery1** to display **Real Estate Showings** and then select the edit button to put the gallery in edit mode.
+1. On the app's main screen, select **ScreenContainer1** > **BodyContainer1** > **SideBarContainer1** > **RecordsGallery1** > **Subtitle1**
 
-1. Select the **Title** and then set the **Text** value to the following formula:
+1. Notice the data on the app preview that has been selected. In the formula bar, change the Text for Subtitle1 to:
 
-    `ThisItem.Address`
+    `Text(ThisItem.Date, "[$-en-US]mm/dd/yyyy")`
 
-1. Select the **Subtitle** and then set the **Text** value to the following formula:
+1. Select the **Body** and then update the **Text** value to display the **Status** of ThisItem. To do this, replace the column that is currently set to display (within the single quotation marks) with `Status` and select the appropriate **Status** column from the options.
 
-    `ThisItem.'Client Email'`
+1. On the app's main screen, select the **Form** control (You can also locate this in the Tree view by selecting **ScreenContainer1** > **BodyContainer1** > **RightContainer1** > **MainContainer1** > **Form1**).
 
-1. Select the **Body** and then set the **Text** value to the following formula:
-
-    `ThisItem.Status`
-
-    A single record in the gallery should now resemble the following image.
-
-1. On the app's main screen, select the **Form** control.
-
-1. On the **Properties** pane on the right, under the **Fields** property, select **Edit fields**.
+1. On the **Properties** pane on the right, for the **Fields** property, select **Edit fields**.
 
 1. In the **Fields** pane, expand the **ID** field.
 
@@ -170,39 +172,21 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     Because you previously changed the **ID** field to **Autonumber**, you don’t want users entering their own number; Dataverse automatically enters the numbers for you.
 
+1. Select **Add field**.
+
+1. Select **Property** to add the Property field to the form.
+
 1. In the **Fields** pane, select the **X** in the upper-right corner to close the pane.
 
 1. Make a new request for a property that shows in the app by selecting the **Play** button from the upper part of the screen.
 
 1. In the left pane, select the **+New** button.
 
-1. Though you could modify the form to automatically fill in the fields for you, for this lab, you'll complete this step manually to observe how the app works.
-
-   Fill in the fields with the following information:
-
-    - Agent Name - < Your name >
-
-    - Client Full Name - < Your name >
-
-    - Client Email - < Your email >
-
-    - Date - < Any future date >
-
-    - Time - < Any future time >
-
-    - Status - `Pending`
-
-    - Address - `210 Pine Road, Portland, OR 97204`
-
-    > [!NOTE]
-    >
-    > This address is one of the addresses from the Microsoft Excel file in Module 1, and it's the same file that you uploaded and turned into the **Real Estate Properties** table.
-    >
-    > Though you'd usually have a lookup field to the **Real Estate Properties** table, this lab doesn't provide one to keep it simple.
+1. Populate the fields to create a new Real Estate Showing.
 
 1. Select the check mark in the upper-right corner of the screen.
 
-1. Select the **X** in the upper-right corner to close out of the app.
+1. Close out of the app preview by selecting the **X** in the right corner.
 
     If a dialog appears saying **Did you know?**, select **OK**.
 
@@ -212,4 +196,4 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
     If the system prompts you, save the app name as **Real Estate Showings**.
 
-1. Exit the app to return to the Power Apps home page.
+Congratulations on creating your canvas app with Copilot! 
