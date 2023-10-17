@@ -200,9 +200,13 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. On the Tree view, select **New screen** > **Blank**.
 
-1. Select **With data** to start the screen with Dataverse data.
+1. On the Insert pane, select Display form (you may have to search for it). 
 
-1. Select the **Real Estate Properties** table.
+1. Select **Add data** on the top ribbon and select the **Real Estate Properties** table.
+
+1. Select the Real Estate Properties table (***need help with this form)
+
+1. Hover over the screen name (Screen1) on the Tree view and select the **ellipses (...)**. Rename the screen to "PropertyDetails".
 
 1. On the Tree view, select **MainScreen1**.
 
@@ -218,7 +222,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. With the button selected, update the **OnSelect** Property to:
 
-   `Navigate(Screen1)` (need help with this formula to navigate to the selected Real Estate Property) 
+   `Navigate(PropertyDetails,Cover,selectedRecord)` (***need help with this formula to navigate to the selected Real Estate Property) 
 
 1. Select **Save**.
 
@@ -226,7 +230,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Close out of the app preview. 
 
-1. Select **Screen1** from the Tree view.
+1. Select **PropertyDetails** from the Tree view.
 
 1. In the Copilot chat, type and send:
 
