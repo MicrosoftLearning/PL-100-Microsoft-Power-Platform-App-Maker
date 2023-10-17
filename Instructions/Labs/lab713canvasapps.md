@@ -26,7 +26,7 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Respond in the Copilot chat:
 
-   `The property prices should be between $100,000 and $1,000,000.`
+   `The property prices in the example data should be between $100,000 and $1,000,000.`
 
 1. Review the suggested Real Estate Property table. Compare your columns to the following and make any adjustments needed for them to align:
    - ID
@@ -40,15 +40,13 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 ### Create a canvas app for managing real estate showings
 
-1. On the Home page in Power Apps, in the center text field, enter the following prompt to create an AI-generated table and canvas app:
+1. Select the **Home** tab in the left navigation.
 
-    `build an app to manage real estate showings`
+1. In the center text field, enter the following prompt and submit to create an AI-generated table and canvas app:
 
-1. Select the **Send** button.
+    `Build an app to manage real estate showings`
 
 1. After Copilot AI generates a table based on your prompt, look through the table to view the columns that are created for the start of your table.
-
-    Your next steps are to modify and add to the already generated table.
 
 1. Respond in the Copilot chat:
 
@@ -56,15 +54,19 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Notice the change to the column. Respond in the Copilot chat:
 
-   `???`
+   `Rename the Address column to Real Estate Property`
 
-1. Respond in the Copilot chat:
+1. Notice the change to the column. Respond in the Copilot chat:
 
-    `add a column to track client full name`
+    `Add a column for Client Full Name`
 
-1. Respond in the Copilot chat:
+1. Notice the change to the column. Respond in the Copilot chat:
 
-    `add a column to track client email`
+    `Add a column for Client Email`
+
+1. If you do not have a column for **Status**, respond in the Copilot chat:
+
+    `Add a column for Status`
 
 1. Locate and select the **Status** column, then select **View column**. Notice there are three choices: Pending, Confirmed, and Cancelled.
 
