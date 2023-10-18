@@ -14,7 +14,7 @@ In this lab, you will acquire a Power Platform trial tenant and access the Power
 Exercise 1 – Acquire a Power Platform trial tenant 
 --------------------------------------------------
 
-1.  Navigate to [Power Apps](https://powerapps.microsoft.com/) and select **Start building apps**. 
+1.  Navigate to [Power Apps](https://powerapps.microsoft.com/) and select **Start building apps** (or **Start free**). 
 
 2.  Enter the email address from the provided Microsoft 365 credentials (Administrative Username). Select **Next**. 
 
