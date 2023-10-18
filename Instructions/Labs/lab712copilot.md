@@ -47,10 +47,15 @@ Follow these steps to create a flow using Copilot.
 
 1. For the **Assigned To** parameter, enter the email address that you're using for this lab. This email address is the one that receives the approval request.
 
+1. Rename the flow to **Request Approval for Expense Report** by selecting the **request approval when a Dataverse record is created** text in the upper-left corner of the screen.
+
+1. Save the flow by selecting the **Save** button in the upper-right corner of the screen.
+
+1. If you receive a warning banner after the flow is saved, close the warning and continue. 
+
 1. For the **Details** parameter, enter the following text:
 
-   `A new expense report has been received. Please review the details to approve or reject the report:
-
+    `A new expense report has been received. Please review the details to approve or reject the report:
    Report Name: `
 
 1. Place your cursor next to **Report Name** in the **Details** parameter and then select the lightning icon to open the **Dynamic content** pane.
@@ -172,8 +177,6 @@ Follow these steps to create a flow using Copilot.
 1. Add the **Response summary** field from the **Dynamic content** pane to the end of the **Body** text.
 
 1. Collapse the **Send an email 2** action.
-
-1. Rename the flow to **Request Approval for Expense Report** by selecting the **request approval when a Dataverse record is created** text in the upper-left corner of the screen.
 
 1. Save the flow by selecting the **Save** button in the upper-right corner of the screen.
 
