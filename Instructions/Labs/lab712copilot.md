@@ -51,7 +51,7 @@ Follow these steps to create a flow using Copilot.
 
    `A new expense report has been received. Please review the details to approve or reject the report:
 
-   Report Name:`
+   Report Name: `
 
 1. Place your cursor next to **Report Name** in the **Details** parameter and then select the lightning icon to open the **Dynamic content** pane.
 
@@ -195,7 +195,7 @@ Follow these steps to create a flow using Copilot.
 
 1. Select **Approve**.
 
-1. Add a comment and then select **Confirm**.
+1. Enter a comment and then select **Confirm**.
 
     The flow continues to run; it updates the row and sends an email to the requestor. The email that's sent to the requester resembles the following image:
 
