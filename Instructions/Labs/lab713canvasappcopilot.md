@@ -6,15 +6,15 @@
 
 2. Select the **Settings** icon at the bottom left.
 
-3. Select Upcoming Features.
+3. Select **Upcoming Features**.
 
-4. Verify that the Copilot component toggle is set to **On**.
+4. Scroll down and verify that the **Copilot component** toggle is set to **On**.
 
 5. Close the Settings window.
 
 ### Add the Copilot control
 
-1. Select the **PropertyDetails** screen
+1. Select the **Form** in the app designer.
 
 2. Select **Insert** > **Copilot (preview)**.
 
@@ -22,13 +22,12 @@
 
 4. On the **Properties** tab for the Copilot control, select **Edit** next to **Fields**.
 
-5. Select **Add field** and add the following fields for Copilot to answer questions for:
+5. Select **Add field** and add the **Property** field to the Copilot control.
 
-  - Property
-  - Real Estate Showings
+6. Close the Data tab.
 
-6. Select **Add**.
+7. Rearrange the fields on the form as desired to make room for the Copilot control. You may choose to update the Form to display 1 column in the Form properties pane. 
 
-7. Close the Data tab.
+8. Save and publish your app.
 
-*** Need help here... not sure how to make Copilot control work w/ the Real Estate Showing/Real Estate Property data.
+Congratulations! You have added a Copilot control to your app.
