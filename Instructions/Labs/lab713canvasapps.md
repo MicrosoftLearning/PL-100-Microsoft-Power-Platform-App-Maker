@@ -26,9 +26,11 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
 
 1. Review the suggested Real Estate Property table. 
 
-1. If your results have both a Name and an Address column, respond in the Copilot chat: 
-
-   `Rename the Name column "Address" and store the addresses in that column.`
+   > [!NOTE]
+   >
+   > If your results have both a Name and an Address column, respond in the Copilot chat: 
+   >
+   >  `Rename the Name column "Address" and store the addresses in that column.`
 
 1. Respond in the Copilot chat:
 
