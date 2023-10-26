@@ -10,6 +10,8 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. Sign in to Power Apps at `https://make.powerapps.com`.
 
+1. At the top right of your screen, change the Environment to **Dev One**. This is where you will be working for the entirety of this lab.
+
 1. Select **Tables**.
 
 1. Select **Describe the new table** to use Copilot to create a new table.
