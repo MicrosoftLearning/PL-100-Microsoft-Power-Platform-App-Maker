@@ -3,7 +3,7 @@
 
 In this lab, you'll create an automation using Copilot in Power Automate to send an email when an expense report is created. Expense report is a Microsoft Dataverse table. You will use Copilot in Power Automate to help build the initial flow and make revisions to get to your desired flow design.
 
-### Create a flow with Copilot
+### Exercise 1: Create a flow with Copilot
 Follow these steps to create a flow using Copilot.
 
 1. Sign in to Power Automate at `https://make.powerautomate.com`
@@ -22,7 +22,7 @@ Follow these steps to create a flow using Copilot.
 
    The Edit with Copilot designer opens with your flow along with a Copilot chat window on the right.
 
-### Make changes to a flow with Copilot
+### Exercise 2: Make changes to a flow with Copilot
 Follow these steps to revise and finalize your flow using Copilot.
 
 1. Set up some parameters by selecting the **When a row is added, modified or deleted** trigger.
@@ -72,6 +72,8 @@ Follow these steps to revise and finalize your flow using Copilot.
 1. Enter `Trip to Microsoft Ignite` as the **Report Name**.
 
 1. Select **Save**.
+
+### Exercise 3: Run your flow
 
 1. Navigate back to the tab with your flow.
 
