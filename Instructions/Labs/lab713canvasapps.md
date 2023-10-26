@@ -1,7 +1,9 @@
 # Build Canvas Apps in Power Platform with Copilot
-## Lab 1: Use Copilot to create a canvas app
+## Part 1: Use Copilot to create a canvas app
 
-In this exercise, you’ll create a mobile application by using Copilot in Power Apps. Field agents will use this app to browse real estate inventory and manage appointments for showings, and the data will be stored in Dataverse.
+In this lab, you will learn how to create a Real Estate Showing App with the assistance of Copilot for Power Apps, an AI-powered feature that provides suggestions and guidance for building Power Apps. This app will enable real estate agents to manage property listings and schedule showings more efficiently, enhancing their productivity and customer service.
+
+Copilot for Power Apps uses artificial intelligence to suggest formulas, controls, and other elements that can be added to your app based on the context of what you are building. Copilot can help you save time and improve the quality of your app by providing suggestions for common tasks and functions.
 
 > [!NOTE]
 >
