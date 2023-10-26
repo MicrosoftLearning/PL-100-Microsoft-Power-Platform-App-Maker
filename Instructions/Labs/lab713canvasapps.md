@@ -9,7 +9,7 @@ Copilot for Power Apps uses artificial intelligence to suggest formulas, control
 >
 > In this lab, your results for data might vary. Power Apps uses AI to generate data for the lab and the data changes daily.
 
-### Create the Real Estate Property table using Copilot 
+### Exercise 1: Create the Real Estate Property table using Copilot 
 First, you're going to use Copilot in Power Apps to create a Real Estate Property table.
 
 1. Sign in to Power Apps at `https://make.powerapps.com`.
@@ -44,7 +44,7 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
 
 1. Select **Create**.
 
-### Create a canvas app for managing real estate showings
+### Exercise 2: Create a canvas app for managing real estate showings
 In this exercise, you're going to create a canvas app for managing Real Estate Showings. 
 
 1. Select the **Home** tab in the left navigation.
@@ -89,7 +89,7 @@ In this exercise, you're going to create a canvas app for managing Real Estate S
 
     The app that has been built for you should show in **Edit** mode.
 
-## Configure the Real Estate Showings table
+## Exercise 3: Configure the Real Estate Showings table
 In this exercise, you are going to use Copilot to edit the columns in the Real Estate Showings table.
 
 1. Close the Copilot chat pane to allow for more screen space. You can access the Copilot pane at any time by selecting the Copilot (preview) icon at the top.
@@ -126,7 +126,7 @@ In this exercise, you are going to use Copilot to edit the columns in the Real E
 
 1. Select the **Save** icon to save the app.
 
-## Configure your canvas app
+## Exercise 4: Configure your canvas app
 In this exercise, you are going to modify your canvas app so that it displays relevant data. 
 
 1. Select the **Tree view** icon in the left navigation.
