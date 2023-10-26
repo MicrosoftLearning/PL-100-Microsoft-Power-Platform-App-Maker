@@ -1,5 +1,5 @@
-
-# Lab 1: Create a cloud flow with Copilot in Power Automate
+# Create Automated Processes with Power Automate and Copilot​
+## Part 1: Create a cloud flow with Copilot in Power Automate
 
 In this lab, you'll create an automation using Copilot in Power Automate to send an email when an expense report is created. Expense report is a Microsoft Dataverse table. You will use Copilot in Power Automate to help build the initial flow and make revisions to get to your desired flow design.
 
