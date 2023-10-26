@@ -1,4 +1,5 @@
-# Lab 2: Add the Copilot control to a canvas app
+# Build Canvas Apps in Power Platform with Copilot
+## Part 2: Add the Copilot control to a canvas app
 
 ### Enable Copilot control for your app
 
