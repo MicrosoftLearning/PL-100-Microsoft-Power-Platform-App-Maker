@@ -1,5 +1,5 @@
-
-# Lab 1: Create an approval flow with Copilot in Power Automate
+# ARCHIVE
+## Lab 1: Create an approval flow with Copilot in Power Automate
 
 In this lab, you'll create an automation using Copilot in Power Automate to automate the approval process for expense reports. 
 You'll use Copilot to create a flow that sends an email to the reviewer when a new expense report is created. 
