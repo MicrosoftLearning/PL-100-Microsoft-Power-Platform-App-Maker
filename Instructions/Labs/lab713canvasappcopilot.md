@@ -1,7 +1,7 @@
 # Build Canvas Apps in Power Platform with Copilot
 ## Part 2: Add the Copilot control to a canvas app
 
-### Enable Copilot control for your app
+### Exercise 1: Enable Copilot control for your app
 
 1. Navigate to edit your Real Estate Showings app, if it is not already open.
 
@@ -13,7 +13,7 @@
 
 5. Close the Settings window.
 
-### Add the Copilot control
+### Exercise 2: Add the Copilot control
 
 1. Select the **Form** in the app designer.
 
