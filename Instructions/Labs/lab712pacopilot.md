@@ -12,7 +12,7 @@ Follow these steps to create a flow using Copilot.
 
 1. In the center of the **Home** page within Power Automate, in the text field, enter the following prompt:
 
-   `request approval when a Dataverse record is created`
+   `send an email when a Dataverse record is created`
 
 1. Select the **Generate** button (Note: Submit may be substituted for Generate)
 
