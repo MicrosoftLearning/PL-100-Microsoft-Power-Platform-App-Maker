@@ -50,9 +50,13 @@ In this exercise, you’ll create a mobile application by using Copilot in Power
 
 1. After Copilot AI generates a table based on your prompt, look through the table to view the columns that are created for the start of your table.
 
-1. Respond in the Copilot chat:
+1. If your table has an Address column, respond in the Copilot chat:
 
    `Change the data type of the Address column to a lookup to the Real Estate Property table`
+
+1. If you table did not have an Address column, respond in the Copilot chat:
+
+   `Create a lookup column to the Real Estate Property table`
 
 1. Notice the change to the column. Respond in the Copilot chat:
 
