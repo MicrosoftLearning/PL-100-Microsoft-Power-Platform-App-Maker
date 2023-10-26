@@ -73,7 +73,7 @@ Follow these steps to revise and finalize your flow using Copilot.
 
 1. Select **Save**.
 
-1. Navigate back to the flow.
+1. Navigate back to the tab with your flow.
 
 1. Look at the 28-day run history. You may need to select the **Refresh** icon to see the most recent run of your flow.
 
