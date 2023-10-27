@@ -9,6 +9,7 @@ Copilot for Power Apps uses artificial intelligence to suggest formulas, control
 >
 > In this lab, your results for data might vary. Power Apps uses AI to generate data for the lab and the data changes daily.
 
+
 ### Exercise 1: Create the Real Estate Property table using Copilot 
 First, you're going to use Copilot in Power Apps to create a Real Estate Property table.
 
@@ -45,6 +46,7 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
    - Owner Email
 
 1. Select **Create**.
+
 
 ### Exercise 2: Create a canvas app for managing real estate showings
 In this exercise, you're going to create a canvas app for managing Real Estate Showings. 
@@ -91,6 +93,7 @@ In this exercise, you're going to create a canvas app for managing Real Estate S
 
     The app that has been built for you should show in **Edit** mode.
 
+
 ## Exercise 3: Configure the Real Estate Showings table
 In this exercise, you are going to use Copilot to edit the columns in the Real Estate Showings table.
 
@@ -108,13 +111,13 @@ In this exercise, you are going to use Copilot to edit the columns in the Real E
 
 1. From the dropdown menu, select the **Edit column** option.
 
-1. In this example, you don't want the **Data type** to be a **Single line of text**. To change that value, go to the **Edit column** pane, and then from the **Date type** dropdown menu, select **Autonumber**.
+1. In this example, you don't want the **Data type** to be a **Single line of text**. To change that value, go to the **Edit column** pane, and then from the **Date type** drop-down menu, select **Autonumber**.
 
 1. Select **Save**.
 
 1. Select **New column**.
 
-1. Enter "Property" for the **Display Name**.
+1. Enter `Property` for the **Display Name**.
 
 1. For **Data type**, select **Lookup** > **Lookup**.
 
@@ -124,9 +127,10 @@ In this exercise, you are going to use Copilot to edit the columns in the Real E
 
 1. Select **Close** in the lower-right corner of the **Edit table** dialog.
 
-1. In the Data pane, select **Add data** and add the **Real Estate Properties** table.
+1. In the **Data** pane, select **Add data** and add the **Real Estate Properties** table.
 
 1. Select the **Save** icon to save the app.
+
 
 ## Exercise 4: Configure your canvas app
 In this exercise, you are going to modify your canvas app so that it displays relevant data. 
@@ -151,7 +155,7 @@ In this exercise, you are going to modify your canvas app so that it displays re
 
 1. In the **Fields** pane, expand your **ID** field for the Real Estate Showings table.
 
-1. From the **Control type** dropdown menu, change the type to **View text**.
+1. From the **Control type** drop-down menu, change the type to **View text**.
 
     Because you previously changed the **ID** field to **Autonumber**, you don’t want users entering their own number; Dataverse automatically enters the numbers for you.
 
