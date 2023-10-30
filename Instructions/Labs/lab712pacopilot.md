@@ -6,7 +6,7 @@ In this lab, you'll create an automation using Copilot in Power Automate to send
 ### Exercise 1: Create a flow with Copilot
 Follow these steps to create a flow using Copilot.
 
-1. Sign in to Power Automate at `https://make.powerautomate.com`
+1. Sign in to Power Automate at `https://make.powerautomate.com` using the credentials provided to you on the **Resources** tab.
 
 1. At the top right of your screen, change the Environment to **Dev One**. This is where you will be working for the entirety of this lab. 
 
