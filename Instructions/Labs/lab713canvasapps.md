@@ -13,7 +13,7 @@ Copilot for Power Apps uses artificial intelligence to suggest formulas, control
 ### Exercise 1: Create the Real Estate Property table using Copilot 
 First, you're going to use Copilot in Power Apps to create a Real Estate Property table.
 
-1. Sign in to Power Apps at `https://make.powerapps.com`.
+1. Sign in to Power Apps at `https://make.powerapps.com` using the credentials provided to you on the **Resources** tab.
 
 1. At the top right of your screen, change the Environment to **Dev One**. This is where you will be working for the entirety of this lab.
 
