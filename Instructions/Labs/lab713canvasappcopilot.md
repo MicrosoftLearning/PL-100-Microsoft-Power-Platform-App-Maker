@@ -32,3 +32,28 @@
 8. Save and publish your app.
 
 Congratulations! You have added a Copilot control to your app.
+
+# Bonus Challenges
+Want to keep practicing? Check out thes challenges and see what you can do!
+
+## Challenge 1: Employee Vacation Request App
+
+### Objective: 
+Develop an Employee Vacation Request App using the assistance of Copilot to streamline the employee vacation request process within an organization. This app aims to make the process more efficient, reducing paperwork and administrative overhead.
+
+### Details: 
+**Employees:** A list of employees with their names, departments, and contact information.
+**Vacation Requests:** A table to store employee vacation requests with fields for the employee name, department, requested dates, and approval status.
+**Managers:** A list of managers responsible for approving or rejecting vacation requests.
+**App Users:** All employees within the organization should have access to submit vacation requests, while only designated managers can approve or reject requests
+
+## Challenge 2: Sales Lead Tracking App
+
+### Objective:
+Create a Sales Lead Tracking App with the assistance of Copilot to efficiently manage and monitor sales leads, from initial contact to conversion. This app will help sales teams streamline their lead management process and improve their sales conversion rates.
+
+### Details: 
+**Leads:** Information captured on potential sales leads with details like name, contact information, lead source, and lead status (e.g., cold, warm, hot).
+**Sales Team:** A list of sales team members with their names, contact information, and roles.
+**App Users:** Sales team members should have access to view, update, and collaborate on leads, while managers can oversee and analyze lead conversion rates.
+**Lead Communication:** Integration with Microsoft Outlook to track email correspondence with leads.
