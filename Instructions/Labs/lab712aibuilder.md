@@ -94,3 +94,22 @@ Let's test your flow by analyzing text in the Excel file.
 1. Navigate to your Excel file and check that the line of feedback and sentiment was added.
 
 Congratulations, you've successfully created your first AI Builder flow.
+
+# Bonus Challenges
+Want to keep practicing? Check out thes challenges and see what you can do!
+
+## Challenge 1: Social media monitoring
+
+### Objective: 
+Create a cloud flow that monitors social media channels for mentions of your brand and automatically respons to customer inquiries.
+
+### Details: 
+You can use Copilot for Power Automate to create a cloud flow that monitors social media channels for mentions of your brand. The flow can then use AI Builder to analyze the sentiment of each mention and generate a personalized response that addresses the customer's concern or question. The flow can also create a task for a customer service representative to follow up with the customer if necessary.
+
+## Challenge 2: Survey response tracking
+
+### Objective:
+Create a flow to automate the process of collecting and analyzing customer feedback from a survey in Microsoft Forms to gain insights into customer satisfaction and identify areas for improvement. 
+
+### Details: 
+You can use Copilot for Power Automate to create a cloud flow that triggers when a customer completes a survey in Microsoft Forms. The flow can then extract the relevant data from the survey responses and store it in a database or spreadsheet. The flow can analyze the data and generate a report that summarizes the key findings and trends. This can help you identify areas where customers are most satisfied or dissatisfied, and make data-driven decisions to improve your products or services.
