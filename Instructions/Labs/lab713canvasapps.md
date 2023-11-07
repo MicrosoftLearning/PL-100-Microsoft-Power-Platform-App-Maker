@@ -7,7 +7,7 @@ Copilot for Power Apps uses artificial intelligence to suggest formulas, control
 
 > [!NOTE]
 >
-> In this lab, your results for data might vary. Power Apps uses AI to generate data for the lab and the data changes daily.
+> In this lab, your results from Copilot for Power Apps might vary. Power Apps uses AI to generate data for the lab and the data changes daily.
 
 
 ### Exercise 1: Create the Real Estate Property table using Copilot 
@@ -104,7 +104,7 @@ In this exercise, you are going to use Copilot to edit the columns in the Real E
 
 1. Select the **Data** icon from the left navigation bar. Notice that Copilot has created the **Real Estate Showings** Dataverse table.
 
-    Next, you'll edit the table now that the app has been created.
+    Next, you'll edit the table now that the app has been created. You will notice that some standard columns such as Created By, Created On, Modified By, and Modified On have been created for the table. 
 
 1. Within the **Data** pane, hover your mouse cursor over the **Real Estate Showings** table. To the right of the table, select (**...**) > **Edit data**.
 
