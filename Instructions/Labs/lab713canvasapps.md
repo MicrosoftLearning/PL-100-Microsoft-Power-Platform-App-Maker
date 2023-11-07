@@ -97,7 +97,6 @@ In this exercise, you're going to create a canvas app for managing Real Estate S
 
     The app that has been built for you should show in **Edit** mode.
 
-
 ## Exercise 3: Configure the Real Estate Showings table
 In this exercise, you are going to use Copilot to edit the columns in the Real Estate Showings table.
 
@@ -111,7 +110,7 @@ In this exercise, you are going to use Copilot to edit the columns in the Real E
 
 1. In the **Edit table** dialog, you can add your own columns to the table or modify existing columns.
 
-1. Select your **ID** column header from the table (this may be named differently, or you may want to create it!).
+1. Select your **ID** column header for the Real Estate Showing (this may be named differently, or you may want to create it!).
 
 1. From the dropdown menu, select the **Edit column** option.
 
