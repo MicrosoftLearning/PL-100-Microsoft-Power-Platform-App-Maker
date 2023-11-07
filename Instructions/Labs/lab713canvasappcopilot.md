@@ -31,6 +31,8 @@
 
 8. Save and publish your app.
 
+9. Now, you can run the app with the **Play** icon and test out the Copilot control. Ask it a question like "What showings are confirmed?" to see how it responds.
+
 Congratulations! You have added a Copilot control to your app.
 
 # Bonus Challenges
