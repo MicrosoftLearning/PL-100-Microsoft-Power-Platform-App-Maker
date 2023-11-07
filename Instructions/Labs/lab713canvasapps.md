@@ -45,6 +45,10 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
    - Owner
    - Owner Email
 
+   > [!NOTE]
+   >
+   > You may prompt Copilot to create any missing columns. Consider responding in the chat with something like, "Create an ID column". 
+
 1. Select **Create**.
 
 
