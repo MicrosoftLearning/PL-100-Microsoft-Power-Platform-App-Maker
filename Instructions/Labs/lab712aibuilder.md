@@ -43,7 +43,7 @@ Follow these steps to add AI Builder actions in a flow.
 
 For this exercise, you'll use a Microsoft Excel file in OneDrive to store the text sentiment that is detected by the AI model.
 
-1. In a new tab, sign in to [OneDrive](https://onedrive.microsoft.com) with your provided credentials.
+1. In a new tab, sign in to OneDrive at `https://onedrive.microsoft.com` with your provided credentials.
 
 1. If prompted, select **Your OneDrive is ready**.
 
