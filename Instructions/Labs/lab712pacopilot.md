@@ -35,7 +35,7 @@ Follow these steps to revise and finalize your flow using Copilot.
 
 1. Select the **Send an email** action.
 
-1. Select the **To** field and remove any text in the field before entering the email address that you're using for this lab.
+1. Select the **To** field and remove any text in the field before entering the email address that you're using for this lab (the Administrative Username on the Resources tab).
 
 1. In the **To** field, select "Use "(email address)" as a custom value".
 
@@ -43,7 +43,7 @@ Follow these steps to revise and finalize your flow using Copilot.
 
    `Add "A new expense report has been created" as the Subject parameter for the Send an email action`
 
-   The **Subject** field should populate with the prompt text.
+   The Send an email action pane will collapse. Reopen it and notice that the **Subject** field was populated with the prompt text.
 
 1. Enter the following text into the Copilot chat window and then press the **Enter** key on your keyboard:
 
