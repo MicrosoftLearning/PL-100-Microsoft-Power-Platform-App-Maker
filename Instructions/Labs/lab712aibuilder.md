@@ -71,7 +71,7 @@ Follow these steps to use the Excel file you created in your flow.
 
 1. In the **Column1** field, add **Feedback** from the Dynamic content list
 
-1. In the **Column2** field, add **Overall text sentiment**.
+1. In the **Column2** field, add **Overall text sentiment** from the Dynamic content list.
 
 1. Select **Save** to save your flow.
 
@@ -85,7 +85,7 @@ Let's test your flow by analyzing text in the Excel file.
 
 1. Select **Continue** if prompted with the Sign in pane. 
 
-1. Provide the value of the **Feedback** field from the trigger action. This text is what you want to analyze the sentiment for. For this example, we'll enter *This app was really easy to use and gave me great results.*
+1. Provide the value of the **Feedback** field from the trigger action. This text is what you want to analyze the sentiment for. For this example, we'll enter `This app was really easy to use and gave me great results.`
 
 1. Select **Done** to watch your flow run. If your flow ran successfully, you will see all steps shown with a green checkmark.
 
