@@ -61,9 +61,7 @@ In this exercise, you're going to create a canvas app for managing Real Estate S
 
     `Build an app to manage real estate showings`
 
-1. After Copilot AI generates a table based on your prompt, look through the table to view the columns that are created for the start of your table.
-
-1. Review the suggested table. If you do not have a column for **Status**, respond in the Copilot chat:
+1. After Copilot AI generates a table based on your prompt, look through the table to view the columns that are created for the start of your table. If you do not have a column for **Status**, respond in the Copilot chat:
 
     `Add a Choice column for Status`
 
@@ -110,11 +108,11 @@ In this exercise, you are going to use Copilot to edit the columns in the Real E
 
 1. In the **Edit table** dialog, you can add your own columns to the table or modify existing columns.
 
-1. Select your **ID** column header for the Real Estate Showing (this may be named differently, or you may want to create it!).
+1. Select your **Showing ID** column header for the Real Estate Showing (this may be named differently, or you may want to create it!).
 
 1. From the dropdown menu, select the **Edit column** option.
 
-1. In this example, you don't want the **Data type** to be a **Single line of text**. To change that value, go to the **Edit column** pane, and then from the **Date type** drop-down menu, select **Autonumber**.
+1. In this example, you don't want the **Data type** to be a **Single line of text**. To change that value, go to the **Edit column** pane, and then from the **Data type** drop-down menu, select **Autonumber**.
 
 1. Select **Save**.
 
@@ -140,13 +138,13 @@ In this exercise, you are going to modify your canvas app so that it displays re
 
 1. Select the **Tree view** icon in the left navigation.
 
-1. On the app's main screen, select **ScreenContainer1** > **BodyContainer1** > **SideBarContainer1** > **RecordsGallery1** > **Subtitle1**.
+1. On the app's main screen, select **MainScreen1** > **ScreenContainer1** > **BodyContainer1** > **SideBarContainer1** > **RecordsGallery1** > **Subtitle1**.
 
 1. Notice the Subtitle has been selected on the app preview. Select the **Copilot** icon near the Subtitle. 
 
 1. Select **Text formatting** to open Copilot suggestions.
 
-1. Review the suggestions for the Subtitle and decide what data you would like to display when a user is browsing Real Estate Showings. Select one of the suggestions.
+1. Review the suggestions for the Subtitle and decide what data you would like to display when a user is browsing Real Estate Showings. Select one of the suggestions and Apply.
 
 1. Copilot has updated the expression for the Subtitle. Select **Next** and then close the **Try it out** pop-up, if presented with it.
 
@@ -164,7 +162,7 @@ In this exercise, you are going to modify your canvas app so that it displays re
 
 1. Select **Add field**.
 
-1. Select **Property** to add the Property field to the form.
+1. Select **Property** and select **Add** to add the Property field to the form.
 
 1. Close the **Fields** pane.
 
