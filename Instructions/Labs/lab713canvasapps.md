@@ -29,7 +29,7 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
 
 1. Review the suggested Real Estate Property table. 
 
-   > [!NOTE]
+   > **Note:**
    >
    > If your results have both a Name and an Address column, respond in the Copilot chat: 
    >
@@ -47,7 +47,7 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
    - Owner
    - Owner Email
 
-   > [!NOTE]
+   > **Note:**
    >
    > You may prompt Copilot to create any missing columns. Consider responding in the chat with something like, "Create an ID column". 
 
