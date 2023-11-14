@@ -8,6 +8,8 @@ Follow these steps to create a flow using Copilot.
 
 1. Sign in to Power Automate at `https://make.powerautomate.com` using the credentials provided to you on the **Resources** tab.
 
+1. If prompted, select **Get started**.
+
 1. At the top right of your screen, change the Environment to **Dev One**. This is where you will be working for the entirety of this lab. 
 
 1. In the center of the **Home** page within Power Automate, in the text field, enter the following prompt:
