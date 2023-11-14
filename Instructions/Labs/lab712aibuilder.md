@@ -57,7 +57,7 @@ For this exercise, you'll use a Microsoft Excel file in OneDrive to store the te
 
 1. In cell A1, enter `Feedback`.
 
-1. In cell A2, enter `AI Builder Sentiment`.
+1. In cell B1, enter `AI Builder Sentiment`.
 
 1. Highlight cells A1:B2 and select **Insert** > **Table**
 
