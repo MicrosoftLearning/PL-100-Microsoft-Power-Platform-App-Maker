@@ -151,7 +151,7 @@ In this exercise, you are going to modify your canvas app so that it displays re
 
 1. Select **Text formatting** to open Copilot suggestions.
 
-1. Review the suggestions for the Subtitle and decide what data you would like to display when a user is browsing Real Estate Showings. Select one of the suggestions and Apply.
+1. Review the suggestions for the Subtitle and decide what data you would like to display when a user is browsing Real Estate Showings. Select one of the suggestions and select **Apply**.
 
 1. Copilot has updated the expression for the Subtitle. Select **Next** and then close the **Try it out** pop-up, if presented with it.
 
@@ -161,11 +161,11 @@ In this exercise, you are going to modify your canvas app so that it displays re
 
 1. On the **Properties** pane on the right, for the **Fields** property, select **Edit fields**.
 
-1. In the **Fields** pane, expand your **ID** field for the Real Estate Showings table.
+1. In the **Fields** pane, expand the **Showing ID** field for the Real Estate Showings table.
 
 1. From the **Control type** drop-down menu, change the type to **View text**.
 
-    Because you previously changed the **ID** field to **Autonumber**, you don’t want users entering their own number; Dataverse automatically enters the numbers for you.
+    Because you previously changed the **Showing ID** field to **Autonumber**, you don’t want users entering their own number; Dataverse automatically enters the numbers for you.
 
 1. Select **Add field**.
 
