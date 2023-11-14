@@ -65,6 +65,8 @@ Follow these steps to revise and finalize your flow using Copilot.
 
 1. Open another tab and navigate to `https://make.powerapps.com`
 
+1. If prompted for contact information, enter `1234567` for the Phone number and select **Submit**. 
+
 1. Select **Apps** from the left navigation.
 
 1. Locate and hover over the **Expense Tracker app** and select the **Play** icon to run the app.
@@ -81,7 +83,7 @@ Follow these steps to revise and finalize your flow using Copilot.
 
 1. Look at the 28-day run history. You may need to select the **Refresh** icon to see the most recent run of your flow.
 
-1. Select the flow run to review the outcome. 
+1. Select to open the flow run to review the outcome. 
 
 1. In another tab, log in to `https://outlook.com` with your provided credentials to verify that you received the email. 
 
