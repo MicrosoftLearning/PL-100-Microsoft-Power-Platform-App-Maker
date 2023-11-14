@@ -68,7 +68,7 @@ In this exercise, you're going to create a canvas app for managing Real Estate S
 
     `Build an app to manage real estate showings`
 
-1. After Copilot AI generates a table based on your prompt, look through the table to view the columns that are created for the start of your table. If you do not have a column for **Status**, respond in the Copilot chat:
+1. After Copilot generates a table based on your prompt, look through the table to view the columns that are created for the start of your table. If you do not have a column for **Status**, respond in the Copilot chat:
 
     `Add a Choice column for Status`
 
@@ -109,17 +109,17 @@ In this exercise, you are going to use Copilot to edit the columns in the Real E
 
 1. Select the **Data** icon from the left navigation bar. Notice that Copilot has created the **Real Estate Showings** Dataverse table.
 
-    Next, you'll edit the table now that the app has been created. You will notice that some standard columns such as Created By, Created On, Modified By, and Modified On have been created for the table. 
+    Next, you'll edit the table now that the app has been created. 
 
 1. Within the **Data** pane, hover your mouse cursor over the **Real Estate Showings** table. To the right of the table, select (**...**) > **Edit data**.
 
-1. In the **Edit table** dialog, you can add your own columns to the table or modify existing columns.
+1. In the **Edit table** dialog, you can add your own columns to the table or modify existing columns. You will notice that some standard columns such as Created By, Created On, Modified By, and Modified On have been created for the table. 
 
-1. Select your **Showing ID** column header for the Real Estate Showing (this may be named differently, or you may want to create it!).
+1. Select your **Showing ID** column header for the Real Estate Showing (this may be named differently, or you may want to create it).
 
 1. From the dropdown menu, select the **Edit column** option.
 
-1. In this example, you don't want the **Data type** to be a **Single line of text**. To change that value, go to the **Edit column** pane, and then from the **Data type** drop-down menu, select **Autonumber**.
+1. In this example, you don't want the **Data type** to be a **Single line of text**. Change the **Data type** to **Autonumber**.
 
 1. Select **Save**.
 
