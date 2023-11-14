@@ -51,7 +51,7 @@ Follow these steps to revise and finalize your flow using Copilot.
 
    `Add "A new expense report called (Report Name) has been created." as the Body parameter for the Send an email action.`
 
-   The **Body** field should populate with the prompt text.
+   The Send an email action pane will collapse. Reopen it and notice that the **Body** field was populated with the prompt text.
 
 1. In the **Body** field, highlight "(Report Name)" and select the lightning icon for dynamic content. Select the **Report Name** dynamic content.
 
