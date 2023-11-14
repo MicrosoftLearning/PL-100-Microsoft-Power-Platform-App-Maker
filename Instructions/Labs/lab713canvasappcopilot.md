@@ -27,7 +27,7 @@
 
 6. Close the Data tab.
 
-7. Rearrange the fields on the form as desired to make room for the Copilot control. You may choose to update the Form to display 1 column in the Form properties pane. 
+7. Rearrange the fields on the form as desired to make room for the Copilot control. You may choose to update the Form to display 1 column in the Form properties pane. You may also choose to reduce the size of the Copilot control. 
 
 8. Save and publish your app.
 
