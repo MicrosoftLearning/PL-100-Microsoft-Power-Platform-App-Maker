@@ -3,6 +3,10 @@
 
 In this lab, you'll create a simple flow that uses AI Builder actions to analyze the sentiment of feedback text submitted in a Microsoft Excel spreadsheet.
 
+> [!NOTE]
+>
+> You may close out of the Edge browser window from the previous exercises.
+
 ### Exercise 1: Create a manual flow with AI Builder actions
 
 Follow these steps to add AI Builder actions in a flow.
