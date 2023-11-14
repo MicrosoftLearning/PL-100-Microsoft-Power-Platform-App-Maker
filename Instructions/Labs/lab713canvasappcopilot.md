@@ -15,7 +15,7 @@
 
 ### Exercise 2: Add the Copilot control
 
-1. Select the **Form** in the app designer.
+1. On the app's main screen, select the **Form** control (You can also locate this in the Tree view by selecting **ScreenContainer1** > **BodyContainer1** > **RightContainer1** > **MainContainer1** > **Form1**).
 
 2. Select **Insert** > **Copilot (preview)**.
 
@@ -31,7 +31,7 @@
 
 8. Save and publish your app.
 
-9. Now, you can run the app with the **Play** icon and test out the Copilot control. Ask it a question like "What showings are confirmed?" to see how it responds.
+9. Now, you can run the app with the **Play** icon and test out the Copilot control. Ask it a question like "What showings are confirmed?" or "What showings are scheduled for Property ID ___?" to see how it responds.
 
 Congratulations! You have added a Copilot control to your app.
 
