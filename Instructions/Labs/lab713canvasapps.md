@@ -15,19 +15,19 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
 
 1. Sign in to Power Apps at `https://make.powerapps.com` using the credentials provided to you on the **Resources** tab.
 
-1. If prompted for contact information, enter `1234567` for the Phone number and select **Submit**. 
+2. If prompted for contact information, enter `1234567` for the Phone number and select **Submit**. 
 
-1. At the top right of your screen, verify that the Environment is set to **Dev One**. This is where you will be working for the entirety of this lab. If it is not, select the Dev One environment. 
+3. At the top right of your screen, verify that the Environment is set to **Dev One**. This is where you will be working for the entirety of this lab. If it is not, select the Dev One environment. 
 
-1. Select **Tables**.
+4. Select **Tables**.
 
-1. Select **Describe the new table** to use Copilot to create a new table.
+5. Select **Describe the new table** to use Copilot to create a new table.
 
-1. Where the Copilot chat reads "What do you want to do with this table", enter the following prompt and submit:
+6. Where the Copilot chat reads "What do you want to do with this table", enter the following prompt and submit:
 
    `Store Real Estate Property information, including Address, Price, Size, Owner, and Owner Email.`
 
-1. Review the suggested Real Estate Property table. 
+7. Review the suggested Real Estate Property table. 
 
    > **Note:**
    >
@@ -35,11 +35,11 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
    >
    >  `Rename the Name column "Address" and store the addresses in that column.`
 
-1. Respond in the Copilot chat:
+8. Respond in the Copilot chat:
 
    `The property prices in the example data should be between $100,000 and $1,000,000.`
 
-1. Review the suggested Real Estate Property table. Compare your columns to the following and make any adjustments needed for them to align:
+9. Review the suggested Real Estate Property table. Compare your columns to the following and make any adjustments needed for them to align:
    - ID
    - Address
    - Price
@@ -51,7 +51,7 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
    >
    > You may prompt Copilot to create any missing columns. Consider responding in the chat with something like, "Create an ID column". 
 
-1. Select **Create**.
+10. Select **Create**.
 
 
 ### Exercise 2: Create a canvas app for managing real estate showings
