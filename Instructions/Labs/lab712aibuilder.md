@@ -99,13 +99,15 @@ Let's test your flow by analyzing text in the Excel file.
 
 1. Select **Continue** if prompted with the Sign in pane. 
 
-1. Provide the value of the **Feedback** field from the trigger action. This text is what you want to analyze the sentiment for. For this example, we'll enter `This app was really easy to use and gave me great results.`
+1. Provide the value of the **Feedback** field from the trigger action. This text is what you want to analyze the sentiment for. For this example, we'll enter `This course was very well done. I enjoyed learning more about Power Automate.`
+
+1. Select **Run flow**.
 
 1. Select **Done** to watch your flow run. If your flow ran successfully, you will see all steps shown with a green checkmark.
 
 1. You can expand the actions to view the running inputs and outputs of each action, which is a good way to debug your flow.
 
-1. Navigate to your Excel file and check that the line of feedback and sentiment was added.
+1. Navigate to your Excel file and check that the row of feedback and sentiment was added. You may repeat these steps to test inputting negative feedback about a course. 
 
 Congratulations, you've successfully created your first AI Builder flow.
 
