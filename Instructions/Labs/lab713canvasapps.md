@@ -15,6 +15,8 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
 
 1. Sign in to Power Apps at `https://make.powerapps.com` using the credentials provided to you on the **Resources** tab.
 
+1. If prompted for contact information, enter `1234567` for the Phone number and select **Submit**. 
+
 1. At the top right of your screen, change the Environment to **Dev One**. This is where you will be working for the entirety of this lab.
 
 1. Select **Tables**.
