@@ -17,7 +17,7 @@ First, you're going to use Copilot in Power Apps to create a Real Estate Propert
 
 1. If prompted for contact information, enter `1234567` for the Phone number and select **Submit**. 
 
-1. At the top right of your screen, change the Environment to **Dev One**. This is where you will be working for the entirety of this lab.
+1. At the top right of your screen, verify that the Environment is set to **Dev One**. This is where you will be working for the entirety of this lab. If it is not, select the Dev One environment. 
 
 1. Select **Tables**.
 
