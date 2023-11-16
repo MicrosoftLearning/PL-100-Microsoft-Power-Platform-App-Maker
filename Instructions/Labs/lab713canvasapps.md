@@ -145,9 +145,13 @@ In this exercise, you are going to modify your canvas app so that it displays re
 1. Select the **Tree view** icon in the left navigation.
 
 1. On the tree view, select **MainScreen1** > **ScreenContainer1** > **BodyContainer1** > **SideBarContainer1** > **RecordsGallery1** > **Subtitle1**.
+    ![Subtitle1 in Tree View](01/media/Subtitle1.png)
 
 1. Notice the Subtitle has been selected on the app preview. Select the **Copilot** icon near the Subtitle. 
     ![Copilot icon](01/media/powerappscopiloticon.png)
+   > **Note:**
+   > If the Copilot button is not displaying: Navigate to **RecordsGallery1** in the tree view and select **Properties**, then select **Edit** for Fields. Update the Subtitle1 field to another column that you would like to display. Close the Data tab and skip to step #7.
+
 
 1. Select **Text formatting** to open Copilot suggestions.
 
