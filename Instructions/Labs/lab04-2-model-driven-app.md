@@ -38,7 +38,7 @@ In this exercise, you will create a model-driven application.
 
 6.  In the properties pane, check **Enable Areas**. 
 
-7.  Select **Area1**. Select the ellipses on the right of **Area1** and select **Edit properties**. 
+7.  Select **Area1**. Select the ellipsis (...) on the right of **Area1** and select **Edit properties**. 
 
     ![A screenshot of the area editing](02-3/media/Lab2-3-Ex1-Task1-4.png)
 
