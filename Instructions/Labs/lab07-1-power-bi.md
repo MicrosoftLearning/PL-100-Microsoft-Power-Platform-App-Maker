@@ -231,7 +231,7 @@ In this task you will setup a Microsoft Teams team for the Lamna Healthcare Comp
 
 7. In app designer, make sure you have **Manage Problems** area selected. If not, click on the arrows and select **Manage Problems**.
 
-8. Select the ellipses next to **Navigation** title and select **New group**.
+8. Select the ellipsis (...) next to **Navigation** title and select **New group**.
 
 9. Go to the **Properties** pane and enter **Reports** for **Title**.
 
@@ -241,7 +241,7 @@ In this task you will setup a Microsoft Teams team for the Lamna Healthcare Comp
 
 12. **Under Power BI dashboards** check the checkmark next to **Problem management** and then select **Add**.
 
-13. Select the **...** ellipsis icon next to the **Reports** group and select **Move up**. 
+13. Select the ellipsis (...) next to the **Reports** group and select **Move up**. 
 
 14. Select **Save**, then select **Publish**, wait for the publishing to complete and then select **Play**. 
 
