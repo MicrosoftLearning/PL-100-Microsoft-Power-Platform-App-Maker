@@ -46,7 +46,8 @@ In this exercise, you will export the company 311 solution and import it into a 
 
 #### Task 1: Export solution
 
-1.  Navigate to the `https://make.powerapps.com` and make sure you are in the correct environment.
+1.  Navigate to the `https://make.powerapps.com` 
+    and make sure you are in the correct environment.
 
 2.  Select **Solutions**, and open the **Company 311** solution.
 
@@ -68,44 +69,45 @@ In this exercise, you will export the company 311 solution and import it into a 
 
     ![A Screenshot with cursor pointing to the Export Solution button](06/media/Lab6-Ex1-Task1-2.png) 
 
-10.  Select **Next**.
+10. Select **Next**.
 
-8.  Select **Managed** and select **Export**. Wait for the solution to be packaged and exported.
+11. Select **Managed** and select **Export**. Wait for the solution to be packaged and exported.
 
-9.  When it has exported successfully, select **Download** to save the solution to your computer. 
+12. When it has exported successfully, select **Download** to save the solution to your computer. 
 
-10. Select **Export solution** again. 
+13. Select **Export solution** again. 
 
-11. Select **Next**. 
+14. Select **Next**. 
 
-12. Select **Unmanaged**, change the **version** to match the managed solution version and select **Export**. 
+15. Select **Unmanaged**, change the **version** to match the managed solution version and select **Export**. 
 
-13. You should have the **Managed** and **Unmanaged** versions of the solution exported and downloaded.
+16. You should have the **Managed** and **Unmanaged** versions of the solution exported and downloaded.
 
 
 #### Task 2: Create new environment and import solution
 
-1. Navigate to the Power Platform admin center, `https://aka.ms/ppac`
+1.  Navigate to the Power Platform admin center, `https://aka.ms/ppac`
 
-2. Using the navigation on the left, select **Environments**.
+2.  Using the navigation on the left, select **Environments**.
 
-3. Select **New**.
+3.  Select **New**.
 
-4. Name the New Environment `Prod`
+4.  Name the New Environment `Prod`
 
-5. Set the **Type** to **Developer**.
+5.  Set the **Type** to **Developer**.
 
-6. Select **Next**.
+6.  Select **Next**.
 
-7. Select **Save**. 
+7.  Select **Save**. 
 
-8.  Navigate to the [Power Apps maker portal](https://make.powerapps.com/) and select the environment you just created.
+8.  Navigate to the Power Apps maker portal `https://make.powerapps.com` 
+    and select the environment you just created.
 
 9.  Select **Solutions** and select **Import solution**.
 
-10.  Select **Browse**.
+10. Select **Browse**.
 
-11.  Select the managed solution you exported and select **Open**.
+11. Select the managed solution you exported and select **Open**.
 
 12. Select **Next**. 
 
@@ -119,7 +121,7 @@ In this exercise, you will export the company 311 solution and import it into a 
 
 16. Provide your **credentials**.
 
-17. Close the connections browser window or tab.
+17. **Close** the connections browser window or tab.
 
 18. Select **Refresh**.
 
@@ -147,14 +149,15 @@ In this exercise, you will export the company 311 solution and import it into a 
 
 30. Close the **Company 311 Phone App** browser window or tab.
 
+
 ### Exercise 2: Create security roles
 
 In this exercise, you will create security roles for users.
 
 #### Task 1: Create security roles
 
-1.  Navigate to the [Power Apps maker portal](https://make.powerapps.com/) and
-    make sure you are in the correct environment.
+1.  Navigate to the Power Apps maker portal, `https://make.powerapps.com` 
+    and make sure you are in the correct environment. 
 
 2.  Select **Solutions** and open the **Company 311** solution.
 
@@ -194,3 +197,4 @@ In this exercise, you will create security roles for users.
 
 15. Select **Publish all customizations** and wait for the publishing to
     complete.
+
