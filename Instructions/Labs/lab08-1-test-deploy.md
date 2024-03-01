@@ -85,7 +85,7 @@ In this exercise, you will export the company 311 solution and import it into a 
 
 #### Task 2: Create new environment and import solution
 
-1. Navigate to `https://admin.powerapps.microsoft.com`
+1. Navigate to the Power Platform admin center, `https://aka.ms/ppac`
 
 2. Using the navigation on the left, select **Environments**.
 
