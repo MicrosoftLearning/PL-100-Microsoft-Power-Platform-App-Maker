@@ -113,21 +113,7 @@ In this exercise, you will export the company 311 solution and import it into a 
 
 13. Select **Next** again. 
 
-14. Select **Select connection** for outlook and then select **+ New connection**.
-
-    ![A Screenshot with an arrow pointing to the drop down icon and a border around the plus new connection button](06/media/Lab6-Ex1-Task2-2.png)
-
-15. It will open a new window. Select **Create**.
-
-16. Provide your **credentials**.
-
-17. **Close** the connections browser window or tab.
-
-18. Select **Refresh**.
-
-19. Repeat steps 12 - 16 for the rest of the of the connections.
-
-20. Select **Import** and wait for the import to complete.
+14. Select **Import** and wait for the import to complete.
 
 21. Select **Publish all customizations** and wait for the publishing to complete.
 
