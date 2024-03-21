@@ -21,4 +21,4 @@ Exercise 1 – Sign in to Power Apps
 
 2. If prompted for contact information, enter `1234567` for the Phone number and select **Submit**. 
 
-3. At the top right of your screen, verify that the Environment is set to **Dev One**. This is where you will be working for the entirety of this lab. If it is not, select the Dev One environment. 
+3. Refresh the page. At the top right of your screen, verify that the **Environment** is set to **Dev One**. This is where you will be working for the entirety of this lab. If it is not, select the **Dev One** environment. 

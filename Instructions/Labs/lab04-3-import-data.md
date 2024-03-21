@@ -79,9 +79,9 @@ In this exercise, you will import sample data into the environment. Rows are imp
 
 #### Task 1: Import solution
 
-1.  Navigate to the [Power Apps maker portal](https://make.powerapps.com/) and make sure you are in the correct environment.
+1.  Navigate to the  Power Apps maker portal `https://make.powerapps.com` and make sure you are in the correct environment. 
 
-2.  Select **Solutions** and select  **Import Solution**.
+2.  Select **Solutions** and select **Import solution** from the command bar.
 
 3.  Select **Browse**.
 
@@ -95,17 +95,11 @@ In this exercise, you will import sample data into the environment. Rows are imp
 
 6.  Select **Next** again.
 
-7.  Expand the **Select a connection** dropdown and select **+ New connection**.
+7.  Select **Continue**, if necessary.
 
-8.  A new tab will open with a prompt to create the **Microsoft Dataverse** connection. 
+8.  After the connections show a green tick, select **Import** and wait for the notification banner 'Solution "Data Import" imported successfully' to appear.
 
-9.  Select **Create**, authenticate if required, ad wait until new connection is created. **Close** the browser tab.
-
-10. Select **Refresh**. Verify the new connection is selected in the drop-down. 
-
-11. Select **Import** and wait for the message 'Solution "Data Import" imported successfully' to appear.
-
-12. Select **Publish all customizations** and wait for the publishing to complete. 
+9.  Select **Publish all customizations** and wait for the publishing to complete. 
 
 
 #### Task 2: Review and run flow
@@ -153,7 +147,7 @@ In this exercise, you will import sample data into the environment. Rows are imp
 
 #### Task 3: Review imported data
 
-1.  Navigate to the [Power Apps maker portal](https://make.powerapps.com/) and make sure you are in the correct environment.
+1.  Navigate to the Power Apps maker portal `https://make.powerapps.com` and make sure you are in the correct environment.
 
 2.  Select **Apps** and play the **Company 311 Admin** model-driven application.
 
@@ -174,3 +168,4 @@ In this exercise, you will import sample data into the environment. Rows are imp
 6.  Scroll down and select the **Department** lookup.
 
 7.  Make sure the Department rows got imported.
+
